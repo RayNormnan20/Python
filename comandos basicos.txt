@@ -1,0 +1,19 @@
+mkdir = crear carpeta
+touch = crear archivos
+cat = muestra los contenidos de los archivos
+less =muestra los archivos en vim
+nano == estes es un editor de texto
+vim = este es un editor de texto especializado
+cd = cambia de directorio
+cd .. = sale del directorio actual
+ls = Listar archivos
+ctrl+L = limpiar pantalla
+
+//////////////////
+comandos para compilar un archivo en c++
+
+sintaxis:
+g++ nombre.cpp -o nombre //compila el archivo en un ejecutable
+
+para ejercutarlo:
+./nombre.exe
