@@ -1,13 +1,13 @@
 #Ingreso de datos 
-baseMayor= 8
-baseMayor= 5
-altura= 9
+baseMayor= 16
+baseMenor= 6
+altura= 7
 
 #Proceso
-area= baseMayor+baseMayor*altura/2
+area= ((baseMayor + baseMenor) * altura) / 2
 
 #Mostrar resultados 
-print("El area del rombo",area)
+print("El area del rombo",area,"metros cuadrados")
 
 
 #Ingreso de datos

@@ -1,8 +1,7 @@
-#Ingreso de datos 
-l= 5
-#Proceso
-area= l**2
-volumen= l**3
-#Mostrar resultados 
-print("El area es",area,"metros cuadrados")
-print("El volumen es",volumen,"metros cubicos")
+
+i =5
+area = i ** 2
+volumen = i ** 3
+
+print("El aréa del cubo es: " + str(area))
+print("El volumnen del cubo es: " + str(volumen))

@@ -1,0 +1,1 @@
+print("Bienvenidos a\nFundamentos de Programación\nAño 2022")

@@ -1,7 +1,6 @@
-#Ingreso de datos 
-D= 20
-d= 15
-#Proceso
-area= (D * d) / 2
-#Mostrar resultados 
-print("El area es",area,"metros cuadrados")
+diagonalMayor = 15
+diagonalMenor = 6
+ 
+area = (diagonalMayor *diagonalMenor) / 2
+
+print("El área del rombo es: "+ str(area))

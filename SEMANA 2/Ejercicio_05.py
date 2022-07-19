@@ -7,5 +7,5 @@ area= b * h
 perimertro= 2 * (b + h)
 
 #Mostrar resultados 
-print("el area es:",area)
-print("el perimetro es:",perimertro)
+print("El área es:",area)
+print("el perímetro es:",perimertro)
